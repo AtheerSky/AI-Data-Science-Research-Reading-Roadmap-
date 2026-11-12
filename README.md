@@ -4,6 +4,7 @@
 
 >Here, I’ll share useful and interesting research papers I’ve read, along with summaries of what I understood and learned—in both Arabic and English.
 
+Here you can see all the summaries in Arabic and English!! (coming soon !!)
 
 Sorted by field and divided into four categories(مرتبة حسب المجال، ومقسمة إلى أربع فئات): 
 
