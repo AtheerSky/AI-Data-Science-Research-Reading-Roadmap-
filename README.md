@@ -18,17 +18,39 @@ A:
 
 1- [Computing Machinery and Intelligence (1950) — Alan Turing.](https://link.springer.com/chapter/10.1007/978-1-4020-6710-5_3)
 
+B:
 
+C:
 
+D:
 ## Machine Learning — التعلم الآلي
+A:
+
+B:
+
+C:
+
+D:
 
 ## Deep Learning — التعلم العميق
+A:
+
+B:
+
+C:
+
+D:
 
 ## Computer Vision — الرؤية الحاسوبية
+A:
+
+B:
 
 C:
 
 1-[63. ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation (2022) — Xu et al.](https://arxiv.org/abs/2204.12484)
+
+D:
 
 ## Transformers & Large Language Models — المحولات ونماذج اللغة الكبيرة
 
@@ -44,11 +66,15 @@ B:
 
 2- [Language Models are Unsupervised Multitask Learners (2019) — GPT-2.](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
+C:
+
 D:
 
 1-[52. TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023) — Eldan & Li.](https://arxiv.org/abs/2305.07759)
 
 ## Scaling Laws & Model Efficiency — قوانين القياس وكفاءة النموذج
+
+A:
 
 B:
 
@@ -56,15 +82,36 @@ B:
 
 2-[Training Compute-Optimal Large Language Models (2022) — Hoffmann et al. (Chinchilla).](https://arxiv.org/abs/2203.15556)
 
+C:
+
+D:
+
 ## NLP (Natural Language Processing) — معالجة اللغات الطبيعية 
+A:
 
+B:
+
+C:
+
+D: 
 ## Generative Models — النماذج التوليدية
+A:
 
+B:
+
+C:
+
+D: 
 ## AI Security & Multimodal Safety — الأمن بالذكاء الاصطناعي والسلامة متعددة الوسائط
+
+A:
+
+B: 
+
 C:
 
 1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
 
-
+D: 
 
 more coming soon !!
