@@ -35,11 +35,13 @@ C:
 A:
 
 1- [Attention Is All You Need (2017) — Vaswani et al.](https://arxiv.org/abs/1706.03762)
+
 2- [Improving Language Understanding by Generative Pre-Training (GPT-1) — Radford et al.](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 B:
 
 1- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018) — Devlin et al.](https://arxiv.org/abs/1810.04805)
+
 2- [Language Models are Unsupervised Multitask Learners (2019) — GPT-2.](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 D:
@@ -51,6 +53,7 @@ D:
 B:
 
 1-[Scaling Laws for Neural Language Models (2020) — Kaplan et al.](https://arxiv.org/abs/2001.08361)
+
 2-[Training Compute-Optimal Large Language Models (2022) — Hoffmann et al. (Chinchilla).](https://arxiv.org/abs/2203.15556)
 
 ## NLP (Natural Language Processing) — معالجة اللغات الطبيعية 
