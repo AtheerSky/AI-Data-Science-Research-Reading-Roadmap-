@@ -59,6 +59,9 @@ B:
 
 ## AI Security & Multimodal Safety — الأمن بالذكاء الاصطناعي والسلامة متعددة الوسائط
 C:
+
 1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
+
+
 
 more coming soon !!
