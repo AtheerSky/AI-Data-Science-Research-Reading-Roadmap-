@@ -51,7 +51,7 @@ B:
 
 C:
 
-1-[63. ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation (2022) — Xu et al.](https://arxiv.org/abs/2204.12484)
+1-[ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation (2022) — Xu et al.](https://arxiv.org/abs/2204.12484)
 
 D:
 
