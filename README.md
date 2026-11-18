@@ -69,7 +69,7 @@ B:
 
 2- [Language Models are Unsupervised Multitask Learners (2019) — GPT-2.](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
-C:
+C: [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (2020) — T5.](https://arxiv.org/abs/1910.10683)
 
 D:
 
@@ -112,7 +112,6 @@ A:
 B: 
 
 C:
-
 1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
 
 D: 
