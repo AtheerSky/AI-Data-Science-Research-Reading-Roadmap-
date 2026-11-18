@@ -79,6 +79,7 @@ B:
 
 . Foundation Language Models
 1-[LLaMA: Open and Efficient Foundation Language Models (2023)](https://arxiv.org/abs/2302.13971)
+
 2-[Llama 2: Open Foundation and Fine-Tuned Chat Models (2023)](https://arxiv.org/abs/2307.09288)
 
 C:
@@ -88,7 +89,9 @@ C:
 D:
 .Modern LLM Families
 1-[Gemini: A Family of Highly Capable Multimodal Models (2023)](https://arxiv.org/abs/2312.11805)
+
 2-[Gemini 1.5: Unlocking Multimodal Understanding Across Millions of Tokens of Context (2024)](https://arxiv.org/abs/2403.05530)
+
 3-[DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2025)](https://arxiv.org/abs/2501.12948)
 
 ## Scaling Laws & Model Efficiency — قوانين القياس وكفاءة النموذج
