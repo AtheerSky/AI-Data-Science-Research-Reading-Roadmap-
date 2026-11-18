@@ -60,6 +60,7 @@ D:
 
 A:
 >Transformer Architecture
+>
 1- [Attention Is All You Need (2017) — Vaswani et al.](https://arxiv.org/abs/1706.03762)
 
 2- [Improving Language Understanding by Generative Pre-Training (GPT-1) — Radford et al.](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
