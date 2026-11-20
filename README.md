@@ -10,10 +10,10 @@
 
 Sorted by field and divided into four categories(مرتبة حسب المجال، ومقسمة إلى أربع فئات): 
 
-- A — Foundational Papers: أوراق تأسيسية.
-- B — Landmark Papers: أوراق أحدثت تحولًا في المجال.
-- C — Supporting Papers: أوراق داعمة وتطويرية وتقييمية.
-- D — Emerging Research: أبحاث حديثة واتجاهات ناشئة.
+- A — Foundational Papers: أوراق تأسيسية
+- B — Landmark Papers: أوراق أحدثت تحولًا في المجال
+- C — Supporting Papers: أوراق داعمة وتطويرية وتقييمية
+- D — Emerging Research: أبحاث حديثة واتجاهات ناشئة
 
 ## Artificial Intelligence Foundations —  أسس الذكاء الاصطناعي 
 
