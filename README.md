@@ -17,48 +17,48 @@ Sorted by field and divided into four categories(مرتبة حسب المجال�
 
 ## Artificial Intelligence Foundations —  أسس الذكاء الاصطناعي 
 
-A:
+-A:
 
 1- [Computing Machinery and Intelligence (1950) — Alan Turing.](https://link.springer.com/chapter/10.1007/978-1-4020-6710-5_3)
 
-B:
+-B:
 
-C:
+-C:
 
-D:
+-D:
 
 ## Machine Learning — التعلم الآلي
-A:
+-A:
 
-B:
+-B:
 
-C:
+-C:
 
-D:
+-D:
 
 ## Deep Learning — التعلم العميق
-A:
+-A:
 
-B:
+-B:
 
-C:
+-C:
 
-D:
+-D:
 
 ## Computer Vision — الرؤية الحاسوبية
-A:
+-A:
 
-B:
+-B:
 
-C:
+-C:
 
 1-[ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation (2022) — Xu et al.](https://arxiv.org/abs/2204.12484)
 
-D:
+-D:
 
 ## Transformers & Large Language Models — المحولات ونماذج اللغة الكبيرة
 
-A:
+-A:
 
 Transformer Architecture:
 
@@ -66,17 +66,17 @@ Transformer Architecture:
 
 2- [Improving Language Understanding by Generative Pre-Training (GPT-1) — Radford et al.](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-Encoder-based Models:
+-Encoder-based Models:
 
 1- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018) — Devlin et al.](https://arxiv.org/abs/1810.04805)
 
-Decoder-based Models:
+-Decoder-based Models:
 
 1- [Language Models are Unsupervised Multitask Learners (2019) — GPT-2.](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
 2-[Language Models are Few-Shot Learners (2020) — GPT-3](https://arxiv.org/abs/2005.14165)
 
-B:
+-B:
 
 Transformer-based Language Models:
 
@@ -90,13 +90,13 @@ Foundation Language Models:
 
 2-[Llama 2: Open Foundation and Fine-Tuned Chat Models (2023)](https://arxiv.org/abs/2307.09288)
 
-C:
+-C:
 
 Small Language Models:
 
 1-[TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023) — Eldan & Li.](https://arxiv.org/abs/2305.07759)
 
-D:
+-D:
 
 Modern LLM Families:
 
@@ -108,48 +108,48 @@ Modern LLM Families:
 
 ## Scaling Laws & Model Efficiency — قوانين القياس وكفاءة النموذج
 
-A:
+-A:
 
-B:
+-B:
 
 1-[Scaling Laws for Neural Language Models (2020) — Kaplan et al.](https://arxiv.org/abs/2001.08361)
 
 2-[Training Compute-Optimal Large Language Models (2022) — Hoffmann et al. (Chinchilla).](https://arxiv.org/abs/2203.15556)
 
-C:
+-C:
 
-D:
+-D:
 
 ## NLP (Natural Language Processing) — معالجة اللغات الطبيعية 
 
-A:
+-A:
 
-B:
+-B:
 
-C:
+-C:
 
-D: 
+-D: 
 
 ## Generative Models — النماذج التوليدية
 
-A:
+-A:
 
-B:
+-B:
 
-C:
+-C:
 
-D: 
+-D: 
 
 ## AI Security & Multimodal Safety — الأمن بالذكاء الاصطناعي والسلامة متعددة الوسائط
 
-A:
+-A:
 
-B: 
+-B: 
 
-C:
+-C:
 
 1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
 
-D: 
+-D: 
 
 more coming soon !!
