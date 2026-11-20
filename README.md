@@ -60,17 +60,17 @@ D:
 
 A:
 
-##Transformer Architecture
+Transformer Architecture:
 
 1- [Attention Is All You Need (2017) — Vaswani et al.](https://arxiv.org/abs/1706.03762)
 
 2- [Improving Language Understanding by Generative Pre-Training (GPT-1) — Radford et al.](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-##Encoder-based Models
+Encoder-based Models:
 
 1- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018) — Devlin et al.](https://arxiv.org/abs/1810.04805)
 
-##Decoder-based Models
+Decoder-based Models:
 
 1- [Language Models are Unsupervised Multitask Learners (2019) — GPT-2.](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
@@ -78,26 +78,27 @@ A:
 
 B:
 
-##Transformer-based Language Models
+Transformer-based Language Models:
 
 1-[Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (2020) — T5.](https://arxiv.org/abs/1910.10683)
 
 2-[Training Language Models to Follow Instructions with Human Feedback (2022) — InstructGPT](https://arxiv.org/abs/2203.02155)
 
-##Foundation Language Models
+Foundation Language Models:
 
 1-[LLaMA: Open and Efficient Foundation Language Models (2023)](https://arxiv.org/abs/2302.13971)
 
 2-[Llama 2: Open Foundation and Fine-Tuned Chat Models (2023)](https://arxiv.org/abs/2307.09288)
 
 C:
-##Small Language Models
+
+Small Language Models:
 
 1-[TinyStories: How Small Can Language Models Be and Still Speak Coherent English? (2023) — Eldan & Li.](https://arxiv.org/abs/2305.07759)
 
 D:
 
-##Modern LLM Families
+Modern LLM Families:
 
 1-[Gemini: A Family of Highly Capable Multimodal Models (2023)](https://arxiv.org/abs/2312.11805)
 
@@ -120,6 +121,7 @@ C:
 D:
 
 ## NLP (Natural Language Processing) — معالجة اللغات الطبيعية 
+
 A:
 
 B:
@@ -127,7 +129,9 @@ B:
 C:
 
 D: 
+
 ## Generative Models — النماذج التوليدية
+
 A:
 
 B:
@@ -135,6 +139,7 @@ B:
 C:
 
 D: 
+
 ## AI Security & Multimodal Safety — الأمن بالذكاء الاصطناعي والسلامة متعددة الوسائط
 
 A:
@@ -142,6 +147,7 @@ A:
 B: 
 
 C:
+
 1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
 
 D: 
