@@ -153,10 +153,11 @@ D:
 ## Mixture of Experts (MoE) — مزيج الخبراء
 
 A:
-1-[Adaptive Mixtures of Local Experts (1991) — Jacobs et al.]()
+1-[Adaptive Mixtures of Local Experts (1991) — Jacobs et al.](https://www.cs.toronto.edu/~hinton/absps/jjnh91.pdf)
 
 B:
 1-[GLaM: Efficient Scaling of Language Models with Mixture-of-Experts (2021)](https://arxiv.org/abs/2112.06905)
+
 C:
 
 D: 
@@ -179,11 +180,11 @@ D:
 ## NLP (Natural Language Processing) — معالجة اللغات الطبيعية 
 
 A: 
-1-[A Neural Probabilistic Language Model (2003) — Bengio et al.]()
+1-[A Neural Probabilistic Language Model (2003) — Bengio et al.](https://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 
 2-[Efficient Estimation of Word Representations in Vector Space (2013) — Word2Vec](https://arxiv.org/abs/1301.3781)
 
-3-[GloVe: Global Vectors for Word Representation (2014)]()
+3-[GloVe: Global Vectors for Word Representation (2014)](https://aclanthology.org/D14-1162.pdf)
 
 4-[Sequence to Sequence Learning with Neural Networks (2014) — Sutskever et al.](https://arxiv.org/abs/1409.3215)
 
@@ -208,7 +209,7 @@ D:
 ## Arabic NLP & Cross-Lingual NLP — معالجة العربية واللغات المتعددة
 
 A:
-1-[Named Entity Recognition using Cross-lingual Resources: Arabic as an Example (2013) — Darwish]()
+1-[Named Entity Recognition using Cross-lingual Resources: Arabic as an Example (2013) — Darwish](https://aclanthology.org/P13-1153.pdf)
 
 B: 
 1-[AraBERT: Transformer-based Model for Arabic Language Understanding (2020) — Antoun et al.](https://arxiv.org/abs/2003.00104)
@@ -216,7 +217,8 @@ B:
 2-[AraBART: A Pretrained Arabic Sequence-to-Sequence Model for Abstractive Summarization (2022)](https://arxiv.org/abs/2203.10945)
 
 C:
-1-[What does BERT Learn from Arabic Machine Reading Comprehension Datasets? (2021)]()
+1-[What does BERT Learn from Arabic Machine Reading Comprehension Datasets? (2021)](https://aclanthology.org/2021.wanlp-1.4.pdf)
+
 D:
 
 ## Generative Models — النماذج التوليدية
@@ -263,6 +265,8 @@ D:
 
 2-[When Do VLMs Help Arabic Manuscript OCR? A Cross-Dataset Study (2026)](https://arxiv.org/abs/2608.22366)
 
+3-[Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR (2025)](https://arxiv.org/pdf/2509.18174)
+
 ## Retrieval-Augmented Generation (RAG) — التوليد المعزز بالاسترجاع
 
 A:
@@ -296,20 +300,8 @@ C:
 
 D: 
 
+## Scientific Machine Learning — التعلم الآلي العلمي
 
-## AI Security & Multimodal Safety — الأمن بالذكاء الاصطناعي والسلامة متعددة الوسائط
-
-A:
-
-B: 
-
-C:
-
-1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
-
-D: 
-
-## Space AI & Astronomical Data — الذكاء الاصطناعي والبيانات الفلكية
 A:
 
 B:
@@ -318,7 +310,53 @@ C:
 
 D: 
 
+## AI Security & Multimodal Safety —    الأمن الذكاء الاصطناعي والسلامة متعددة الوسائط  
+
+A:
+
+B: 
+
+C:
+1-[Jailbroken: How Does LLM Safety Training Fail? (2023)](https://arxiv.org/abs/2307.02483)
+
+D: 
+1- [Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions (2026).](https://arxiv.org/abs/2603.03637)
+
+## AI Evaluation & Benchmarking — تقييم النماذج والمعايير
+
+A:
+1-[GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding (2018)](https://arxiv.org/abs/1804.07461)
+
+B:
+
+C:
+
+D: 
+
+## Data Science, Data Quality & Representation Learning — علم البيانات وجودة البيانات والتمثيلات
+
+A:
+
+B:
+
+C:
+
+D: 
+
+## Space AI & Astronomical Data — الذكاء الاصطناعي والبيانات الفلكية
+
+A:
+1-[The Gaia Mission (2016) — Gaia Collaboration](https://arxiv.org/abs/1609.04153)
+
+B:
+1-[Gaia Data Release 3: Summary of the Content and Survey Properties (2023)](https://arxiv.org/abs/2208.00211)
+
+C:
+
+D: 
+
 ## Algorithmic Memory & Recommender Systems — الذاكرة الجماعية والخوارزميات
+
 A:
 
 B:
